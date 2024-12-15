@@ -3,7 +3,9 @@
 ## Step to create react project
 
 Step 1:download node.js from official website and install it in your system.
+
 Step 2: download and install npm package manager from official website.
+
 Step 3: open command prompt or terminal and type "npx create-react-app my-app"
 Step 4: ***navigate to the project folder by typing "cd my-app"***
 Step 5: start the development server by typing "npm start" or "yarn start"
