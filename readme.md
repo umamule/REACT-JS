@@ -30,7 +30,7 @@ Step 13: use npm run eject or yarn eject to eject the app from the create-react-
 
 ## Step to create react with vite
 
-Step 1: open command prompt or terminal and type "npm create@latest my-app"
+Step 1: open command prompt or terminal and type "npm create vite@latest my-app"
 
 Step 2: navigate to the project folder by typing "cd my-app"
 
